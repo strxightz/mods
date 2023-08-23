@@ -7,10 +7,3 @@ These are the most up-to-date mods that I personally use. This modpack is capabl
 - If you get a lot of Errors Make sure to Install Fabric API. Since almost all mods require the Fabric API to function properly,
 - You must install Fabric to run these mods. Don't know how? Watch this [Tutorial](https://www.youtube.com/watch?v=9L0KKSfeG1g)!
 # Performance Mods
-- [Sodium](https://modrinth.com/mod/sodium)
-  - A modern rendering engine for Minecraft which greatly improves performance.
-  - Consider using [Sodium Extra](https://modrinth.com/mod/sodium-extra) and [Reese`s Sodium Options](https://modrinth.com/mod/reeses-sodium-options) for better-looking options.
-- [Lithium](https://modrinth.com/mod/lithium)
-  - Lithium is a modern, general-purpose optimization mod for Minecraft which works to improve a number of systems (game physics, mob AI, block ticking, etc) with the goal of **not changing any vanilla mechanics.**
-- [Starlight](https://modrinth.com/mod/starlight)
-  - Rewrites the light engine to fix lighting performance and lighting errors
