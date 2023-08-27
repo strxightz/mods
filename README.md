@@ -1,6 +1,8 @@
-# The Best Mods for Performance. Quality-Of-Life features too!
+# The Best Minecraft Mods for Performance. Quality-Of-Life features too!
 These are the most up-to-date mods that I personally use. This modpack is capable of tripling your performance, revamping menus, and giving you a smoother experience without changing the vanilla gameplay. Keep in mind that these mods are currently for 1.20.1.
 
+## Why can't I download these all in one ZIP file? Why do I have to download them all individually?
+Not every mod is legally allowed to be distributed in modpacks. Some mods' license agreements say you can't include their mod in a modpack without explicit permission, and that really isn't worth it here. Plus, mods get outdated quickly, and, unlike in a proper modpack, it's important to keep all of these mods updated. So, I don't want to make a legally questionable ZIP file full of mods that will be outdated the next day. Downloading each mod individually is the best way to have the best in-game experience.
 ## Keep In Mind
 - Some of these mods are configurable, and if you wish to configure them, you have to install Mod Menu and Cloth Config API.
 - If you're using Sodium and you get a crash (or another weird bug) that is caused by another mod, install Indium and that will hopefully fix it (ex. Continuity uses the Fabric Rendering API, so it requires Indium to work with Sodium)
@@ -213,3 +215,12 @@ These are the most up-to-date mods that I personally use. This modpack is capabl
   - **QoL Mod**
   - Stacked Crystals... (hacks)
   - WARNING! Look at the server rules if this mod  is allowed
+
+# Different types of Mods
+
+- Performance Mods
+  - Performance mods make your game run better and smoother like increasing your frame rate or making chunks load faster
+- Dependency Mods
+  - Dependency mods are mods that are really only used to make other mods work, like how most mods require Fabric API/Quilted Fabric API to run, even though the mod doesn't do anything to the game on its own
+- Quality-of-life Mods
+  - Quality-of-life mods make the Minecraft experience better overall, like always displaying coordinates in game or copying screenshots to your computer's clipboard for easy access
