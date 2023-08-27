@@ -34,6 +34,11 @@ Not every mod is legally allowed to be distributed in modpacks. Some mods' licen
   - **QoL  Mod**
   - Set your brightness beyond default levels.
 
+- [Cloth Config API](https://modrinth.com/mod/cloth-config)
+
+  - **Dependency Mod**
+  - Configuration Library for Minecraft Mods
+
 - [Capes](https://modrinth.com/mod/capes)
 
   - **QoL Mod**
@@ -84,6 +89,17 @@ Not every mod is legally allowed to be distributed in modpacks. Some mods' licen
   - **Performance Mod**
   - Using async path-tracing to hide Block-/Entities that are not visible
 
+- [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
+
+  - **Dependency Mod**
+  - This is a mod that enables usage of the Kotlin programming language for Fabric mods.
+
+- [Fabric API](https://modrinth.com/mod/fabric-api)
+
+  - **Dependency Mod**
+  - Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain.
+  - WARNING! You need this mod so every single mod works
+  
 - [FasterRandom](https://modrinth.com/mod/faster-random)
 
   - **Performance Mod**
@@ -96,8 +112,13 @@ Not every mod is legally allowed to be distributed in modpacks. Some mods' licen
 
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
 
-    - **Performance Mod**
-    - Reduces the memory usage of Minecraft in a few different ways. A high-level technical description of the changes is available [here](https://github.com/malte0811/FerriteCore/blob/main/summary.md).
+  - **Performance Mod**
+  - Reduces the memory usage of Minecraft in a few different ways. A high-level technical description of the changes is available [here](https://github.com/malte0811/FerriteCore/blob/main/summary.md).
+
+- [Indium](https://modrinth.com/mod/indium)
+
+  - **Dependency Mod**
+  - Sodium addon providing support for the Fabric Rendering API, based on Indigo
 
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 
@@ -118,6 +139,16 @@ Not every mod is legally allowed to be distributed in modpacks. Some mods' licen
 
   - **Performance Mod**
   - No-compromises game logic/server optimization mod
+
+- [MidnightLib](https://modrinth.com/mod/midnightlib)
+
+  - **Dependency Mod**
+  - Common library with a built-in configuration system
+
+- [Mod Menu](https://modrinth.com/mod/modmenu)
+
+  - **Dependency Mod**
+  - Adds a mod menu to view the list of mods you have installed. 
 
 - [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
 
